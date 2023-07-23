@@ -1,4 +1,4 @@
-# Đồ án: Phần mềm quản lí tạp hóa
+# Đồ án: Phần mềm quản lí bán hàng cho cửa hàng điện thoại
 **Description**
 
 Phần mềm dùng để quản lí kho hàng và phục vụ việc bán hàng ở cửa hàng bán điện thoại di động.
